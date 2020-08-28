@@ -1,4 +1,4 @@
-FROM httpd:2.4.34-alpine
+FROM httpd:2.4.46-alpine
 
 MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 
